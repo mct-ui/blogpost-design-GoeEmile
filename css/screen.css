@@ -126,18 +126,18 @@ hr {
 }
 
 a {
-    color: RoyalBlue;
+    color: #00E6A1;;
     transition: all .1s ease-in-out;
 }
 
 a:visited,
 a:active {
-    color: BlueViolet;
+    color: #00E6A1;
 }
 
 a:hover,
 a:focus {
-    color: Crimson;
+    color: #1ABAFF;;
 }
 
 /* Small devices (landscape phones, 576px and up) */
